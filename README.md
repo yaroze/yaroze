@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yaroze
 - 👀 I’m interested in devops, automation and databases
-- 🌱 I’m currently learning Kubernetes and Cloud architectures
-- 💞️ I’m looking to collaborate on anything cool :)
+- 🌱 I’m currently learning Kubernetes and Cloud architectures (it never ends, right? ;))
+- 💞️ I’m looking to collaborate on anything innovative :)
 - 📫 How to reach me pedro@yaroze.org
 
 <!---
